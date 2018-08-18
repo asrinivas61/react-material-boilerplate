@@ -1,14 +1,4 @@
-# [Material-UI](https://github.com/callemall/material-ui) - Example Webpack Project
-
-This is an example project that uses [Material-UI](https://github.com/callemall/material-ui).
-
-## Installation
-
-After cloning the repository, install dependencies:
-```sh
-cd <project folder>/material-ui/examples/webpack-example
-npm install
-```
+# React-Material-boilerplate
 
 Now you can run your local server:
 ```sh
